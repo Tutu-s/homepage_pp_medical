@@ -1,0 +1,110 @@
+{
+  "clinic": {
+    "name": "THE NOBLE PLASTIC SURGERY",
+    "koreanName": "더 노블 성형외과",
+    "slogan": "시간을 거스르는 변치 않는 아름다움",
+    "description": "당신만의 고유한 아름다움을 찾아드리는 프리미엄 성형외과입니다.",
+    "values": [
+      {
+        "title": "Precision",
+        "description": "0.1mm의 오차도 허용하지 않는 정교함"
+      },
+      {
+        "title": "Safety",
+        "description": "대학병원급 안전 시스템과 마취과 전문의 상주"
+      },
+      {
+        "title": "Natural",
+        "description": "인위적이지 않은 본연의 자연스러운 아름다움"
+      }
+    ],
+    "contact": {
+      "phone": "02-555-1234",
+      "address": "서울 강남구 도산대로 123 노블타워 4F",
+      "kakao": "@thenoble",
+      "naverBooking": "https://booking.naver.com/...",
+      "hours": "평일 10:00 - 19:00 / 토요일 10:00 - 16:00"
+    }
+  },
+  "doctor": {
+    "name": "Dr. Kim Min-Seok",
+    "koreanName": "김민석 대표원장",
+    "position": "Plastic Surgeon / Chief Director",
+    "image": "/images/doctor-profile-v2.jpg",
+    "history": [
+      "서울대학교 의과대학 졸업",
+      "서울대학교병원 성형외과 전문의",
+      "전) 청담 OO성형외과 원장",
+      "다한 성형외과 학회 정회원"
+    ],
+    "philosophy": "성형은 단순한 외모의 변화가 아닌, 자신감을 되찾아주는 치유의 과정입니다. 환자 한 분 한 분의 고유한 매력을 살려 최상의 결과를 만들어냅니다."
+  },
+  "services": [
+    {
+      "id": "anti-aging",
+      "title": "Signature Anti-aging",
+      "koreanTitle": "시그니처 안티에이징",
+      "description": "노블만의 독자적인 리프팅 기술로 시간을 되돌립니다.",
+      "duration": "60 mins",
+      "recovery": "즉시 일상생활 가능"
+    },
+    {
+      "id": "rhinoplasty",
+      "title": "Natural Rhinoplasty",
+      "koreanTitle": "자연유착 코성형",
+      "description": "얼굴의 중심, 코의 라인을 살려 입체적인 아름다움을 완성합니다.",
+      "duration": "90 mins",
+      "recovery": "3-5일"
+    },
+    {
+      "id": "eyes",
+      "title": "Bright Eye Surgery",
+      "koreanTitle": "브라이트 눈성형",
+      "description": "또렷하고 시원한 눈매를 위한 맞춤형 눈성형 솔루션.",
+      "duration": "40 mins",
+      "recovery": "3일"
+    },
+    {
+      "id": "skin-care",
+      "title": "Premium Skin Care",
+      "koreanTitle": "프리미엄 스킨케어",
+      "description": "피부 본연의 빛을 찾아주는 고품격 메디컬 스킨케어.",
+      "duration": "60 mins",
+      "recovery": "없음"
+    }
+  ],
+  "trust_stats": [
+    {
+      "label": "Years of Experience",
+      "value": "15+",
+      "suffix": "Years"
+    },
+    {
+      "label": "Successful Surgeries",
+      "value": "10,000+",
+      "suffix": "Cases"
+    },
+    {
+      "label": "Patient Satisfaction",
+      "value": "98%",
+      "suffix": ""
+    },
+    {
+      "label": "SCI Papers",
+      "value": "20+",
+      "suffix": "Papers"
+    }
+  ],
+  "seo": {
+    "title": "더 노블 성형외과 | 하이엔드 의료 뷰티 솔루션",
+    "description": "강남구 도산대로 위치, 안티에이징, 눈, 코 성형 전문. 1:1 맞춤 상담, 대학병원급 안전 시스템.",
+    "keywords": [
+      "성형외과",
+      "안티에이징",
+      "눈성형",
+      "코성형",
+      "강남성형외과",
+      "리프팅"
+    ]
+  }
+}
